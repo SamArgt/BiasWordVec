@@ -27,3 +27,5 @@ slander
 smuggling
 treason
 trespassing
+mafia
+mobster
