@@ -3,7 +3,7 @@ actif
 Adaptable
 Admirable
 Aventureux
-Agréable
+AgrÃ©able
 Alerte
 allocentrique
 Aimable
@@ -11,9 +11,9 @@ anticipative
 Reconnaissant
 Articuler
 En herbe
-Athlétique
+AthlÃ©tique
 Attrayant
-Équilibré
+Ã‰quilibrÃ©
 Bienveillant
 Brillant
 Calme
@@ -27,81 +27,81 @@ De bonne humeur
 Nettoyer
 Lucide
 Intelligent
-Coloré
+ColorÃ©
 Companionly
 Compatissant
 Conciliatoire
 Sur de soi
 Consciencieux
-Prévenant
+PrÃ©venant
 Constant
 Contemplatif
-Coopérative
+CoopÃ©rative
 Courageux
 Courtois
-Créatif
-Cultivé
+CrÃ©atif
+CultivÃ©
 Curieuse
 Audacieux
-raffiné
-Décent
-Décisif
-Dévoué
+raffinÃ©
+DÃ©cent
+DÃ©cisif
+DÃ©vouÃ©
 Profond
 Digne
-Réalisé
-Discipliné
+RÃ©alisÃ©
+DisciplinÃ©
 Discret
 Spectaculaire
 Respectueux
 Dynamique
-Sérieux
-Exubérant
-cultivé
+SÃ©rieux
+ExubÃ©rant
+cultivÃ©
 Efficace
-Élégant
-Éloquent
+Ã‰lÃ©gant
+Ã‰loquent
 empathique
-Énergique
+Ã‰nergique
 Enthousiaste
-Esthétique
+EsthÃ©tique
 Passionnant
 Extraordinaire
 Juste
-Fidèle
-Hypermétrope
+FidÃ¨le
+HypermÃ©trope
 felicific
 Raffermir
 Souple
-axé
-Énergique
+axÃ©
+Ã‰nergique
 Indulgent
 Franc
-Pensée libre
+PensÃ©e libre
 Amical
 Aime s'amuser
 Galant
-généreuse
+gÃ©nÃ©reuse
 Doux
-Véritable
+VÃ©ritable
 Personne de bonne nature
 Gracieux
 Travailleur
-En bonne santé
+En bonne santÃ©
 Copieux
 Utile
-Héroïque
-De caractère noble
-Honnête
+HÃ©roÃ¯que
+De caractÃ¨re noble
+HonnÃªte
 Honorable
 Humble
 Humoristique
-Idéaliste
+IdÃ©aliste
 Imaginatif
 Impressionnant
 Incisif
 Incorruptible
-Indépendant
+IndÃ©pendant
 Individualiste
 Innovant
 Inoffensif
@@ -109,36 +109,36 @@ perspicace
 insouciant
 Intelligente
 Intuitif
-Invulnérable
+InvulnÃ©rable
 Gentil
 Connaissance
 Leaderly
 Tranquille
-Libéral
+LibÃ©ral
 Logique
 Aimable
-Fidèle
+FidÃ¨le
 Lyrique
 Magnanime
-De nombreux côtés
+De nombreux cÃ´tÃ©s
 Masculin (Manly)
 Mature
-Méthodique
-Méticuleux
-Modéré
+MÃ©thodique
+MÃ©ticuleux
+ModÃ©rÃ©
 Modeste
-À plusieurs niveaux
-Soigné
+Ã€ plusieurs niveaux
+SoignÃ©
 non autoritaire
 Objectif
 Observateur
 Ouvert
 Optimiste
-Ordonné
-Organisé
+OrdonnÃ©
+OrganisÃ©
 Original
 Soigneux
-Passionné
+PassionnÃ©
 Patient
 Patriotique
 Paisible
@@ -146,47 +146,47 @@ Perspicace
 perfectionniste
 Charmant
 Persuasif
-Organisé
-Espiègle
+OrganisÃ©
+EspiÃ¨gle
 Brillant
 Populaire
 Pratique
-Précis
-fondée sur des principes
+PrÃ©cis
+fondÃ©e sur des principes
 Profond
 inconstant
 Protecteur
 Providentiel
 Prudent
 Ponctuelle
-Déterminé
+DÃ©terminÃ©
 Rationnel
-Réaliste
-Réfléchissant
-Détendu
+RÃ©aliste
+RÃ©flÃ©chissant
+DÃ©tendu
 Fiable
-Ingénieux
+IngÃ©nieux
 Respectueux
 Responsable
 Sensible
-Révérenciel
+RÃ©vÃ©renciel
 Romantique
 Rustique
 sauge
 Sain
 Savant
 Scrupuleux
-Sécurise
-Désintéressé
+SÃ©curise
+DÃ©sintÃ©ressÃ©
 Autocritique
-Auto-défiguration
+Auto-dÃ©figuration
 Qui se sacrifie
 Autosuffisance
 Autosuffisant
 Sensible
 Sentimental
-Séraphique
-Sérieux
+SÃ©raphique
+SÃ©rieux
 Sexy
 Partage
 Astucieux
@@ -195,29 +195,29 @@ Habile
 Sobre
 Sociable
 Solide
-Sophistiqué
-Spontané
+SophistiquÃ©
+SpontanÃ©
 Sportif
 Stable
 Ferme
 Stable
-Stoïque
+StoÃ¯que
 Fort
 Studieux
 doucereux
 Subtil
 Doux
 Sympathique
-Systématique
-De bon goût
+SystÃ©matique
+De bon goÃ»t
 Teacherly
 Approfondi
-Rangé
-Tolérant
+RangÃ©
+TolÃ©rant
 Docile
 Confiant
 uncomplaining
-Compréhension
+ComprÃ©hension
 dogmatisme
 Unfoolable
 Droit
@@ -225,9 +225,9 @@ Urbain
 Aventureux
 Vivace
 Chaud
-Bien élevé
-Cultivé
-Bien équilibrée
+Bien Ã©levÃ©
+CultivÃ©
+Bien Ã©quilibrÃ©e
 Gagnant
 Sage
 Spirituel
@@ -237,18 +237,18 @@ Agressif
 Ambitieux
 Amusant
 Astucieux
-Ascétique
+AscÃ©tique
 Autoritaire
-Big-pensée
-De garçon
+Big-pensÃ©e
+De garÃ§on
 Frais
 Pratique
-Occupé
-Décontractée
-Cérébral
+OccupÃ©
+DÃ©contractÃ©e
+CÃ©rÃ©bral
 Sociable
 Circonspect
-Compétitif
+CompÃ©titif
 Complexe
 Confidentiel
 Conservateur
@@ -256,24 +256,24 @@ Contradictoire
 Croustillant
 Mignonne
 Trompeur
-Déterminé
+DÃ©terminÃ©
 Dominateur
-Rêveur
+RÃªveur
 Conduite
-Drôle
+DrÃ´le
 Sec
 Terreux
-Efféminé
-Émotif
-Énigmatique
-Expérimental
+EffÃ©minÃ©
+Ã‰motif
+Ã‰nigmatique
+ExpÃ©rimental
 familial
 folksy
 Formel
 Freewheeling
 Frugal
 Glamour
-Naïf
+NaÃ¯f
 Plein d'entrain
 Huried
 Hypnotique
@@ -284,63 +284,63 @@ Impersonnel
 Impressionnable
 Intense
 Invisible
-Irréligieux
-Irrévérencieux
+IrrÃ©ligieux
+IrrÃ©vÃ©rencieux
 Maternel
 Moelleux
 Moderne
 moralisatrice
 Mystique
 Neutre
-Évasif
+Ã‰vasif
 Non concurrentiel
-Obéissant
-Démodé
+ObÃ©issant
+DÃ©modÃ©
 Ordinaire
 Franc
 paternalistes
 Physique
 Placide
 Politique
-Prévisible
-Préoccupé
-Privé
+PrÃ©visible
+PrÃ©occupÃ©
+PrivÃ©
 Progressive
 Fier
 Pur
 Interrogation
 Silencieux
 Religieux
-Réservé
+RÃ©servÃ©
 Restreint
 Sortant
 Sarcastique
-Complexé
+ComplexÃ©
 Sensuel
 Sceptique
 Lisse
 Doux
 Solennel
 Solitaire
-Arrière
+ArriÃ¨re
 Stoiid
 Strict
-Têtu
-Élégant
+TÃªtu
+Ã‰lÃ©gant
 Subjectif
 Surprenant
 Doux
 Dure
-sans agressivité
+sans agressivitÃ©
 sans ambition
-Sans façon
+Sans faÃ§on
 immuable
 undemanding
 Insondable
 sans se presser
-désinhibée
+dÃ©sinhibÃ©e
 Antipatriotique
-Imprévisible
+ImprÃ©visible
 unreligious
 unsentimental
 Capricieux
@@ -351,7 +351,7 @@ Sans but
 Airy
 Distant
 Amoral
-Fâché
+FÃ¢chÃ©
 Anxieux
 Apathique
 Arbitraire
@@ -359,7 +359,7 @@ raisonneur
 Arrogant
 Artificiel
 Asocial
-péremptoire
+pÃ©remptoire
 astigmate
 Barbare
 Bewildered
@@ -372,10 +372,10 @@ Brutal
 Calculateur
 Insensible
 Cantakerous
-Négligent
+NÃ©gligent
 Prudent
 Charmless
-Puéril
+PuÃ©ril
 Maladroit
 Grossier
 Du froid
@@ -384,13 +384,13 @@ satisfait
 Complaintive
 Compulsif
 Vaniteux
-Réprobateur
+RÃ©probateur
 Conformiste
 Confus
-Méprisable
+MÃ©prisable
 Conventionnel
-Lâche
-Rusé
+LÃ¢che
+RusÃ©
 Grossier
 Fou
 Criminel
@@ -398,37 +398,37 @@ Critique
 Brut
 Cruel
 Cynique
-Décadent
+DÃ©cadent
 Trompeur
-Délicat
+DÃ©licat
 Exigeant
-Dépendant
-Désespéré
+DÃ©pendant
+DÃ©sespÃ©rÃ©
 Destructeur
 Sournois
 Difficile
 Sale
-Déroutant
-Mécontent
-Décourageant
+DÃ©routant
+MÃ©content
+DÃ©courageant
 Discourtois
-Malhonnête
-Déloyal
-Désobéissant
-Désordonné
-désorganisés
+MalhonnÃªte
+DÃ©loyal
+DÃ©sobÃ©issant
+DÃ©sordonnÃ©
+dÃ©sorganisÃ©s
 Raisonneur
 Irrespectueux
 Perturbateur
 Dissolu
 Dissonant
 distractible
-Inquiétant
+InquiÃ©tant
 Dogmatique
 Dominateur
 Terne
-Découragé facilement
-Égocentrique
+DÃ©couragÃ© facilement
+Ã‰gocentrique
 amollis
 Envieux
 Erratique
@@ -436,8 +436,8 @@ Escapist
 Excitable
 Opportun
 Extravagant
-Extrême
-Déloyal
+ExtrÃªme
+DÃ©loyal
 Faux
 Fanatique
 Fantaisiste
@@ -446,23 +446,23 @@ flagorneur
 Craintif
 Inconstant
 Ardent
-Fixé
+FixÃ©
 Flamboyant
-Insensé
+InsensÃ©
 Oublieux
 Frauduleux
 Effrayant
 Frivole
 Sombre
-inélégant
+inÃ©lÃ©gant
 Grandiose
 Glouton
 Sinistre
-Crédule
+CrÃ©dule
 Odieux
 Hautain
-Hédonistique
-Hésitant
+HÃ©donistique
+HÃ©sitant
 Rigide
 Tyrannique
 Hostile
@@ -472,17 +472,17 @@ Impatient
 Pas pratique
 Imprudent
 Impulsif
-Inconsidéré
+InconsidÃ©rÃ©
 Incurieux
-Indécis
+IndÃ©cis
 Indulgent
 Inerte
-inhibés
-Peu sûr
+inhibÃ©s
+Peu sÃ»r
 Insensible
-Pas sincère
+Pas sincÃ¨re
 Insultant
-Intolérant
+IntolÃ©rant
 Irascible
 Irrationnel
 Irresponsable
@@ -490,97 +490,97 @@ Irritable
 Paresseux
 Libidineux
 Loquace
-Mal intentionné
-Maniéré
-Mal élevé
+Mal intentionnÃ©
+ManiÃ©rÃ©
+Mal Ã©levÃ©
 Fade
 Mealymouthed
-Mécanique
+MÃ©canique
 Indiscret
-Mélancolique
+MÃ©lancolique
 Factice
-Désordonné
-Misérable
+DÃ©sordonnÃ©
+MisÃ©rable
 Avare
-malavisée
+malavisÃ©e
 faux
-Intéressé par l'argent
+IntÃ©ressÃ© par l'argent
 Monstrueux
 de mauvaise humeur
 Morbide
-Écervelé
-Naïve
+Ã‰cervelÃ©
+NaÃ¯ve
 Narcissique
-Étroit
-Étroit d'esprit
+Ã‰troit
+Ã‰troit d'esprit
 chic
-négativiste
-Négligent
-Névrosé
+nÃ©gativiste
+NÃ©gligent
+NÃ©vrosÃ©
 Nihiliste
 Odieux
 Obsessionnel
-Évident
+Ã‰vident
 Impair
-dégagé
+dÃ©gagÃ©
 Unidimensionnelle
-Unilatéral
+UnilatÃ©ral
 Dogmatique
 Opportuniste
-Opprimé
+OpprimÃ©
 Scandaleux
 Overimaginative
-Paranoïaque
+ParanoÃ¯aque
 Passif
-Pédant
+PÃ©dant
 Pervers
 Petit
-Pharisaïque
+PharisaÃ¯que
 Flegmatique
 plodding
 Pompeux
 Possessif
 Avide de pouvoir
-Prédateur
+PrÃ©dateur
 Partial
-Présomptueux
-Prétentieux
-guindé
+PrÃ©somptueux
+PrÃ©tentieux
+guindÃ©
 Procrastinating
-Débauché
+DÃ©bauchÃ©
 Provocant
 Pugnace
 Puritain
 Quirky
-Réactionnaire
-Réactif
-Régimentaire
+RÃ©actionnaire
+RÃ©actif
+RÃ©gimentaire
 De regret
 Repentant
-Refoulé
-Irrité
+RefoulÃ©
+IrritÃ©
 Ridicule
 Rigide
 Ritualiste
 Chahuteur
-Ruiné
+RuinÃ©
 Sadique
 Moralisateur
 Intrigant
-Méprisant
-caché
-sédentaire
-Égoïste
+MÃ©prisant
+cachÃ©
+sÃ©dentaire
+Ã‰goÃ¯ste
 Sybarite
 Peu profond
 Myope
 Timide
 Idiot
-Résolu
-Négligé
+RÃ©solu
+NÃ©gligÃ©
 Lent
 Sournois
-Petit-pensée
+Petit-pensÃ©e
 Softheaded
 Sordide
 Steely
@@ -590,49 +590,49 @@ Stupide
 Soumis
 Superficiel
 Superstitieux
-Méfiant
-peu délicat
+MÃ©fiant
+peu dÃ©licat
 Insipide
 Tendu
 Voleur
-Irréfléchi
+IrrÃ©flÃ©chi
 Timide
 Transparent
 Perfide
-Branché
-Gênant
+BranchÃ©
+GÃªnant
 unappreciative
 uncaring
 Peu charitable
 peu convaincante
-Peu coopératif
+Peu coopÃ©ratif
 uncreative
 Non critique
 Onctueux
-Indiscipliné
+IndisciplinÃ©
 Hostile
 Ingrat
-Mauvais pour la santé
+Mauvais pour la santÃ©
 sans imagination
 unimpressive
 unlovable
 Non poli
 Sans scrupules
-Irréaliste
-irréfléchi
+IrrÃ©aliste
+irrÃ©flÃ©chi
 Non fiable
-Effréné
+EffrÃ©nÃ©
 Unself critiques
 Instable
 Vide
 Vague
-Vénal
+VÃ©nal
 Venimeux
 Vindicatif
-Vulnérable
+VulnÃ©rable
 Faible
-Velléitaire
-Bien intentionné
-Délibéré
-désireux
+VellÃ©itaire
+Bien intentionnÃ©
+DÃ©libÃ©rÃ©
+dÃ©sireux
 Loufoque
