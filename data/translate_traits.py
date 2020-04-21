@@ -36,6 +36,7 @@ for w in words_en:
     words_fr.append(w_fr)
     
 #%%
-f = open("traits_words_fr.txt", "w")
-f.writelines('\n'.join(words_fr))
+import codecs
+f = codecs.open("traits_words_fr.txt", "w", "utf-8")
+f.write('\n'.join(words_fr))
 f.close()
