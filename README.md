@@ -13,9 +13,9 @@ All the data used in the notebooks are in the data/ folder
 
 ## Analysis
 ### European National Stereotypes
-The analaysis have been made in the notebook named "europe_stereotypes_analysis.ipynb"
+The analysis has been made in the notebook named "europe_stereotypes_analysis.ipynb"
 
 ### Racial Stereotyping of Criminal
-The analysis have been made in the notebook namd "racial stereotyping.ipynb"
+The analysis has been made in the notebook named "racial stereotyping.ipynb"
 
 
